@@ -1,0 +1,10 @@
+{
+  "name": "demo_azure_1",
+  "version": "0.0.0",
+  "description": "demo-azure-1",
+  "main": "server.js",
+  "author": {
+    "name": "marcello.palmitessa",
+    "email": ""
+  }
+}
