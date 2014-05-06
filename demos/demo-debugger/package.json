@@ -1,0 +1,10 @@
+{
+  "name": "demo-debugger",
+  "version": "0.0.1",
+  "description": "demo-debugger",
+  "main": "server.js",
+  "author": {
+    "name": "marcello.palmitessa",
+    "email": "marcello.palmitessa@avanade.com"
+  }
+}
