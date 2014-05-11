@@ -2,7 +2,7 @@
   "name": "demo1",
   "version": "0.0.0",
   "description": "demo1",
-  "main": "app.js",
+  "main": "server.js",
   "author": {
     "name": "marcello.palmitessa",
      "email": "marcello.palmitessa@avanade.com"
